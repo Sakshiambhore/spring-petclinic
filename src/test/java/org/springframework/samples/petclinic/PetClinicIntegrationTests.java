@@ -50,11 +50,10 @@ public class PetClinicIntegrationTests {
 	}
 
 	/* adding fail test cases 
-	*/
 	@Test
 	void contextLoads() {
 		assertEquals(2,2):
-	}
+	}*/
 
 	@Test
 	void testOwnerDetails() {
