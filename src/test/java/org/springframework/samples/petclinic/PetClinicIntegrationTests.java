@@ -48,6 +48,9 @@ public class PetClinicIntegrationTests {
 		vets.findAll();
 		vets.findAll(); // served from cache
 	}
+	
+	@test
+	void testOwnerDetails() {
 
 	@Test
 	void testOwnerDetails() {
